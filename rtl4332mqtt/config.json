@@ -7,7 +7,7 @@
   "startup": "services",
   "map": ["config:rw", "ssl"],
   "usb": true,
-  "devices": ["/dev/mem:rw"],
+  "devices": ["/dev/mem"],
   "host_network": "False",
   "arch": [
     "aarch64",
