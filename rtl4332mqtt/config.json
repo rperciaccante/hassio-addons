@@ -6,6 +6,7 @@
   "url": "https://github.com/james-fry/hassio-addons/tree/master/rtl4332mqtt",
   "startup": "services",
   "map": ["config:rw", "ssl"],
+  "usb": true,
   "devices": ["/dev/mem:rw"],
   "host_network": "False",
   "arch": [
