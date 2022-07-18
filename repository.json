@@ -1,5 +1,5 @@
 {
-  "name": "Hass.IO add-on repository by FFOS",
-  "url": "https://github.com/franfos/hassio-addons",
-  "maintainer": "James and helpers"
+  "name": "Hass.IO repository of modified add-ons",
+  "url": "https://github.com/rperciaccante/hassio-addons/",
+  "maintainer": "Bob Perciaccante"
 }
